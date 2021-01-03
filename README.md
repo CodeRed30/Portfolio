@@ -20,7 +20,7 @@ This is where I will document my learning process throughout my time at Makers A
 * I grow collaboratively
 
 ## Weekly Goals
-* [Week 1] (https://github.com/CodeRed30/portfolio/blob/main/goals/week_1.md)
+* [Week 1](https://github.com/CodeRed30/portfolio/blob/main/goals/week_1.md)
 * Week 2
 * Week 3
 * Week 4
