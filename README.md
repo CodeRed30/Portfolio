@@ -33,5 +33,6 @@ This is where I will document my learning process throughout my time at Makers A
 * Week 11
 * Week 12
 
+## Notes
 
 ###### [Markdown Formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
