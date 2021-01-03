@@ -1,7 +1,7 @@
 # Katrina Harradine - Portfolio
 This is where I will document my learning process throughout my time at Makers Academy.
 
-## Course Goals
+## [Course Goals](https://github.com/makersacademy/course/blob/master/goals/progress_insight.md)
 ### I can make software
 * [I can TDD anything](https://github.com/CodeRed30/portfolio/blob/main/evidence/make_software/tdd_anything.md)
 * [I can program anything](https://github.com/CodeRed30/portfolio/blob/main/evidence/make_software/program_anything.md)
@@ -19,7 +19,7 @@ This is where I will document my learning process throughout my time at Makers A
 * [I can justify the way I work](https://github.com/CodeRed30/portfolio/blob/main/evidence/team_success/justify_work.md)
 * [I grow collaboratively](https://github.com/CodeRed30/portfolio/blob/main/evidence/team_success/grow_collaboratively.md)
 
-## Weekly Goals
+## [Weekly Goals](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 * [Week 1](https://github.com/CodeRed30/portfolio/blob/main/goals/week_1.md)
 * Week 2
 * Week 3
