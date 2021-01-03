@@ -17,4 +17,18 @@ This is where I will document my learning process throughout my time at Makers A
 * I use an agile product development process
 * I write code that is easy to change
 * I can justify the way I work
-* I grow collaboratively 
+* I grow collaboratively
+
+## Weekly Goals
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+Week 6
+Week 7
+Week 8
+Week 9
+Week 10
+Week 11
+Week 12
