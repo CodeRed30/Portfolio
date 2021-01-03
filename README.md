@@ -3,21 +3,21 @@ This is where I will document my learning process throughout my time at Makers A
 
 ## Course Goals
 ### I can make software
-* I can TDD anything
-* I can program anything
-* I can debug anything
-* I can model anything
-* I have a methodical approach to solving problems
+* [I can TDD anything](https://github.com/CodeRed30/portfolio/blob/main/evidence/make_software/tdd_anything.md)
+* [I can program anything](https://github.com/CodeRed30/portfolio/blob/main/evidence/make_software/program_anything.md)
+* [I can debug anything](https://github.com/CodeRed30/portfolio/blob/main/evidence/make_software/debug_anything.md)
+* [I can model anything](https://github.com/CodeRed30/portfolio/blob/main/evidence/make_software/model_anything.md)
+* [I have a methodical approach to solving problems](https://github.com/CodeRed30/portfolio/blob/main/evidence/make_software/methodically_solving_problems.md)
 
 ### I'm equipped for long term growth
-* I manage my own wellbeing
-* I can learn anything by myself
+* [I manage my own wellbeing](https://github.com/CodeRed30/portfolio/blob/main/evidence/growth/manage_wellbeing.md)
+* [I can learn anything by myself](https://github.com/CodeRed30/portfolio/blob/main/evidence/growth/learn_myself.md)
 
 ### I help my team succeed
-* I use an agile product development process
-* I write code that is easy to change
-* I can justify the way I work
-* I grow collaboratively
+* [I use an agile product development process](https://github.com/CodeRed30/portfolio/blob/main/evidence/team_success/agile_processes.md)
+* [I write code that is easy to change](https://github.com/CodeRed30/portfolio/blob/main/evidence/team_success/changable_code.md)
+* [I can justify the way I work](https://github.com/CodeRed30/portfolio/blob/main/evidence/team_success/justify_work.md)
+* [I grow collaboratively](https://github.com/CodeRed30/portfolio/blob/main/evidence/team_success/grow_collaboratively.md)
 
 ## Weekly Goals
 * [Week 1](https://github.com/CodeRed30/portfolio/blob/main/goals/week_1.md)
