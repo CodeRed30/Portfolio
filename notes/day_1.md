@@ -113,6 +113,7 @@ Workshops - Tuesday and Thursday
 * Choosing and implementing appropriate learning strategies
 
 #### Main benefits - breakout session
+Group 6 - Tom, Miranda and Anna 
 * Flexibility
 * Accountability
 * Confidence
