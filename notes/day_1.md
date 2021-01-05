@@ -76,6 +76,8 @@ chiefjoyofficer.medium.com
 
 It's ok to be vulnerable but don't forget to celebrate the wins!
 
+[EQ Cohort answers](https://docs.google.com/document/d/1B8T_AWFoDjXNySVEGm-4N540ZhKldmV5IBG8NifbGdw/edit)
+
 ## Meditation
 #### Course Advice
 * Don't copy and paste code you don't understand!
@@ -113,7 +115,7 @@ Workshops - Tuesday and Thursday
 * Choosing and implementing appropriate learning strategies
 
 #### Main benefits - breakout session
-Group 6 - Tom, Miranda and Anna 
+Group 6 - Tom, Miranda and Anna
 * Flexibility
 * Accountability
 * Confidence
