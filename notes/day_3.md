@@ -25,3 +25,11 @@ Make daily and weekly goals
 - [] https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
 - [] https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
 - [] https://github.com/makersacademy/course/blob/master/week_outlines.md#goals
+
+## SDL
+#### OOP
+* [Encapsulation](https://www.geeksforgeeks.org/ruby-encapsulation/) - the grouping of data so it is not widely accessible, unless explicitly called upon. eg. creating  a class and putting methods inside that class
+* [Abstraction](https://www.geeksforgeeks.org/data-abstraction-in-ruby/) - Separating data so some can be visibile and others isn't. eg using Public and Private inside of a class
+* [Inheritance](https://www.geeksforgeeks.org/ruby-inheritance/) - Data can take on the characteristics of another group - like Parent and Child eg. sub-class taking on the characteristics of a master-class
+* [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-ruby/) - the ability to use the same method on different objects eg1. (using inheritance) use different classes but have the same methods in each class eg2. (using Duck-Typing) similar to inheritance but the parent class's output is the method itself
+* SRP - Single responsibility principle - every class and method should only be responsible for one thing 
