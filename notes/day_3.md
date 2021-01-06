@@ -21,10 +21,9 @@ Make daily and weekly goals
 | Evidence | More comfortable pairing later | Explain basic OOP principles |
 
 #### [Resources](https://airtable.com/shrIlMSX4PrGxuSfT/tblokmw6yNUO75ge6)
-- [ ] https://www.geeksforgeeks.org/ruby-encapsulation/#:~:text=Encapsulation%20is%20defined%20as%20the,data%20under%20a%20single%20unit.&text=Encapsulation%20can%20be%20achieved%20by,get%20the%20values%20of%20variables.
 - [ ] https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
-- [ ] https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
-- [ ] https://github.com/makersacademy/course/blob/master/week_outlines.md#goals
+- [X] https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
+
 
 ## SDL
 #### OOP
@@ -33,3 +32,15 @@ Make daily and weekly goals
 * [Inheritance](https://www.geeksforgeeks.org/ruby-inheritance/) - Data can take on the characteristics of another group - like Parent and Child eg. sub-class taking on the characteristics of a master-class
 * [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-ruby/) - the ability to use the same method on different objects eg1. (using inheritance) use different classes but have the same methods in each class eg2. (using Duck-Typing) similar to inheritance but the parent class's output is the method itself
 * SRP - Single responsibility principle - every class and method should only be responsible for one thing
+
+## Pairing - Boris Bikes Day 2 - Salar
+#### Types of RSpec tests
+* State tests - test if something exists - usually a responds_to test
+* Behaviour tests - test the behaviour of a method - to eq style test and includes an it explanation
+
+#### Subject in RSpec tests
+Used to represent a new instance of a class in the test and is used as its placeholder
+
+#### Unit Test/Feature Test
+* Unit test - tests individual logic of specific objects
+* Feature test - Tests the whole program like a user would use it and makes sure everything works together
