@@ -21,10 +21,10 @@ Make daily and weekly goals
 | Evidence | More comfortable pairing later | Explain basic OOP principles |
 
 #### [Resources](https://airtable.com/shrIlMSX4PrGxuSfT/tblokmw6yNUO75ge6)
-- [] https://www.geeksforgeeks.org/ruby-encapsulation/#:~:text=Encapsulation%20is%20defined%20as%20the,data%20under%20a%20single%20unit.&text=Encapsulation%20can%20be%20achieved%20by,get%20the%20values%20of%20variables.
-- [] https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
-- [] https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
-- [] https://github.com/makersacademy/course/blob/master/week_outlines.md#goals
+- [ ] https://www.geeksforgeeks.org/ruby-encapsulation/#:~:text=Encapsulation%20is%20defined%20as%20the,data%20under%20a%20single%20unit.&text=Encapsulation%20can%20be%20achieved%20by,get%20the%20values%20of%20variables.
+- [ ] https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
+- [ ] https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
+- [ ] https://github.com/makersacademy/course/blob/master/week_outlines.md#goals
 
 ## SDL
 #### OOP
@@ -32,4 +32,4 @@ Make daily and weekly goals
 * [Abstraction](https://www.geeksforgeeks.org/data-abstraction-in-ruby/) - Separating data so some can be visibile and others isn't. eg using Public and Private inside of a class
 * [Inheritance](https://www.geeksforgeeks.org/ruby-inheritance/) - Data can take on the characteristics of another group - like Parent and Child eg. sub-class taking on the characteristics of a master-class
 * [Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-ruby/) - the ability to use the same method on different objects eg1. (using inheritance) use different classes but have the same methods in each class eg2. (using Duck-Typing) similar to inheritance but the parent class's output is the method itself
-* SRP - Single responsibility principle - every class and method should only be responsible for one thing 
+* SRP - Single responsibility principle - every class and method should only be responsible for one thing
