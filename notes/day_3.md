@@ -44,3 +44,12 @@ Used to represent a new instance of a class in the test and is used as its place
 #### Unit Test/Feature Test
 * Unit test - tests individual logic of specific objects
 * Feature test - Tests the whole program like a user would use it and makes sure everything works together
+
+## Pills
+#### User Stories
+Comprised of three sections - Stakeholder, Motivation and Task
+```
+As a <Stakeholder>,
+So that <Motivation>,
+I'd like <Task>.
+```
