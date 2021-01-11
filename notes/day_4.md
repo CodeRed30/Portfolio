@@ -35,3 +35,6 @@ User stories -> feature test -> unit test -> red -> write code -> green -> refac
 * How to test for rand?
 
 ## Pairing - Boris Bikes Day 3 - Morné
+* Remember the tortoise wins the race
+* Explore RSpec syntax
+* Work on understanding @bike = bike = bike = bike

@@ -10,22 +10,20 @@ By the end of the week all developers can:
 4.  Describe some basic OO principles like encapsulation, SRP
 * SDL
 
-## Monday
+## Monday - Day 1
 * Complete the onboarding
 * Speak up
 * Enjoy it
 
-## Tuesday
+## Tuesday - Day 2
 * Keep your eyes closed for the whole of Meditation
 * Commit fully to the process
 
-## Wednesday
+## Wednesday - Day 3
 #### Personal Goals
 * Create and stick to SDL plan for AM session
 * Read each challenge page thoroughly before doing anything, formulate a plan and then attempt work
 > Wisest are they who try only one thing to fix the problem. Faffing about trying whatever occurs to > > you next is a recipe for development hell.
-
-* Understand [branches](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches#:~:text=Use%20a%20branch%20to%20isolate,branch%20using%20a%20pull%20request.) on Github
 
 #### SDL goals
 | | RSpec | OOP |
@@ -33,3 +31,11 @@ By the end of the week all developers can:
 | Goal | Greater understanding of RSpec syntax | Greater understanding of OOP |
 | Achieve | Research and re-read yesterdays resources | OOP resources |
 | Evidence | More comfortable pairing later | Explain basic OOP principles |
+
+## Thursday - Day 4
+* Translation of user stories - BB getting easier
+* Why use a feature test - Explain to Pair Partner
+
+## Friday - Day 5
+* Be confident with BB Challenge to go into weekend Challenge - successful Airport challenge
+* Understand @bikes = bikes - Use in future challenges

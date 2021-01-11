@@ -11,5 +11,16 @@ https://github.com/makersacademy/skills-workshops/tree/master/week-1/writing_tes
 
 
 ## Retrospective
+#### Went well
+* Pair programming - driver/navigator set up
+* TDD - learnt new syntax
+* Debugging - working through Boris Bikes and fixing my own test and code bugs
+* OOP - using encapsulation and SRP in my code base
 
-## Pairing - Boris Bikes Day 4 - Pete 
+#### Could improve
+* Pair programming - asserting my lack of knowledge and need to pause to catch up
+* TDD - working in through the process
+* Debugging - reading the stack trace properly rather than assuming
+* OOP - Mocking and stubbing 
+
+## Pairing - Boris Bikes Day 4 - Pete
