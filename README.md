@@ -21,7 +21,7 @@ This is where I will document my learning process throughout my time at Makers A
 
 ## [Weekly Goals](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 * [Week 1](https://github.com/CodeRed30/portfolio/blob/main/goals/week_1.md)
-* Week 2
+* [Week 2](https://github.com/CodeRed30/portfolio/blob/main/goals/week_2.md)
 * Week 3
 * Week 4
 * Week 5
