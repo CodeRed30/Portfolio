@@ -205,3 +205,10 @@ Verify
 | ✅ | Bike#working? | When it is broken | working? | false |
 | ✅ | Bike#report | When it is working | report | false |
 | ✅ | Bike#report | When it is broken | report | false |
+
+#### Atom Commands
+* Markdown preview - Ctrl Shift M
+* Pane layout - set the column layout - Option Cmd (number of panes)
+* Pane layout - jump to column - Ctrl (1-4)
+* Pane move (left and right) - Cmd Alt Ctrl (left arrow) (right arrow)
+* Pane move (to target pane) - Ctrl Shift (1-4)
