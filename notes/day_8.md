@@ -1,4 +1,4 @@
-# Day  Notes
+# Day 8 Notes
 
 ## Revision with Morné
 * [Doubles headlines](http://rspec.info/documentation/3.8/rspec-mocks/RSpec/Mocks/ExampleMethods.html#double-instance_method)

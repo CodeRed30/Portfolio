@@ -20,11 +20,12 @@
 * Improve Airport code - code review
 
 ## Tuesday - Day 7
-* Behavioural RSpec tests - Oyster Card 
+* Behavioural RSpec tests - Oyster Card
 * OOP - Session with Rich
 
 ## Wednesday - Day 8
-
+* Ensure I don't race ahead because of my ego
+* Give meaningful feedback 
 
 ## Thursday - Day 9
 
