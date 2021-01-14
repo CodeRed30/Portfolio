@@ -20,7 +20,8 @@
 * Improve Airport code - code review
 
 ## Tuesday - Day 7
-
+* Behavioural RSpec tests - Oyster Card 
+* OOP - Session with Rich
 
 ## Wednesday - Day 8
 
