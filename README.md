@@ -1,5 +1,5 @@
 # Katrina Harradine - Portfolio
-This is where I will document my learning process throughout my time at Makers Academy.
+This is where I will document my learning throughout my time at Makers Academy.
 
 ## [Course Goals](https://github.com/makersacademy/course/blob/master/goals/progress_insight.md)
 ### I can make software
