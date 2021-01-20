@@ -1,4 +1,4 @@
-# Day  Notes
+# Day 9 Notes
 
 ## Group call - Karsten_Katrina_Pete_Tom
 * Tom - Ludovico Einaudi - Piano music
@@ -16,7 +16,7 @@
 * Find the first method to extract and move to new class
 * Re-connect the functionality using the variable assigned
 * Run tests and fix errors
-* Repeat from extraction 
+* Repeat from extraction
 
 #### [Domain modelling of Oystercard with Sean](https://docs.google.com/document/d/1Pv7tYp-aSPOtmmYx9k26XvEUa0ZqrhHhb1oJKA2euJA/edit)
 

@@ -25,9 +25,12 @@
 
 ## Wednesday - Day 8
 * Ensure I don't race ahead because of my ego
-* Give meaningful feedback 
+* Give meaningful feedback
 
 ## Thursday - Day 9
-
+* Understand the process of class extraction
+* Complete class extraction on oystercard
 
 ## Friday - Day 10
+* Review isolating class tests using mocking and stubbing
+* Record process review
