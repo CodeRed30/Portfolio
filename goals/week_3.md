@@ -16,7 +16,7 @@
 
 ## Tuesday - Day 12
 * Understand the basics of how the internet works
-* Build a process for setting up web 
+* Build a process for setting up web
 
 ## Wednesday - Day 13
 * Revise Tuesdays learnings
@@ -27,5 +27,6 @@
 *
 
 ## Friday - Day 15
-*
-*
+* Understand how servers work
+* Class extraction
+* Process for setting up web
