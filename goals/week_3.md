@@ -23,8 +23,8 @@
 * Use empathy as a skill
 
 ## Thursday - Day 14
-*
-*
+* Complete class extraction
+* Understand debugging on the web
 
 ## Friday - Day 15
 * Understand how servers work
