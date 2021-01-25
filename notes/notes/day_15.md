@@ -86,6 +86,21 @@ end
 * Use on the ```'/'``` page
 * Create unit tests in the ```./spec``` folder
 * Create a ```./lib``` folder for your classes and methods
+* Create a ```./spec/unit``` folder for your unit tests
+* [SimpleCov install](https://github.com/simplecov-ruby/simplecov)
+* In ```Gemfile``` add ```gem 'simplecov', require: false, group: :test```
+* At the **very** top of spec_helper.rb
+```ruby
+require 'simplecov'
+SimpleCov.start
+```
+* Potential Gemfile grouping
+```ruby
+gem "capybara", require: false, group: :test
+gem "rspec", require: false, group: :test
+gem "simplecov", require: false, group: :test
+gem "simplecov-console", require: false, group: :test
+```
 
 #### Useful resources for building Web app
 * [Capybara Cheatsheet 1](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf)
@@ -123,4 +138,16 @@ For instance; a bullet-point list for self-examination when debugging could look
 * p/puts
  - ‘The ____ method is being run’
  - The value of _____ is ______
- - Entered if statement 1_______
+ - Entered if statement 1_______.
+*
+
+#### [Rack](https://thoughtbot.com/upcase/videos/rack)
+* Underlying tech behind most webframeworks in ruby - Rails & Sinatra
+* Rack is an architecture or design pattern for constructing small bits of code that be composed together - primarily used for web but can be used for other things too
+* Maps well to the HTTP Request/Response cycle
+* Rack also powers gems and middlewares
+* Has 3 characteristics - Call - single argument (ENV ) and returns Status, Header and Body
+* Rack is a standardiser all frameworks work on any server
+* Rack gets a lot of power from Middleware
+* Middleware requires an initializer so has to be a Class
+*  
