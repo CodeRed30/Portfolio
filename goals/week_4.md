@@ -15,16 +15,16 @@
 * Basic understanding of PostgreSQL
 
 ## Tuesday - Day 17
-*
-*
+* Use GUI to interact with database
+* Add and remove databases, tables and data
 
 ## Wednesday - Day 18
-*
-*
+* Get comfortable with interatcing with my database
+* Set up a process doc
 
 ## Thursday - Day 19
-*
-*
+* Prep for the weekend
+* Process doc 
 
 ## Friday - Day 20
 *

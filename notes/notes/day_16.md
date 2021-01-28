@@ -1,4 +1,4 @@
-# Day 15 Notes
+# Day 16 Notes
 
 ## Group call - Karsten_Katrina_Pete_Tom
 * Easyish week
